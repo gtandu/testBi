@@ -1,5 +1,11 @@
-# Test local
+# CSV
 data/Global Terrorism Data.csv
+
+#Excel
+data/Global Terrorism Data.xslx
+
+#ZIP
+data/Global Terrorism Data.zip
 
 # Mac
 *.icloud
