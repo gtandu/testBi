@@ -1,4 +1,5 @@
 id_type_attaque;libellé_type_attaque
+0;unspecified
 1;Assassination
 2;Armed Assault
 3;Bombing/Explosion
@@ -8,4 +9,3 @@ id_type_attaque;libellé_type_attaque
 7;Facility/Infrastructure Attack
 8;Unarmed Assault
 9;Unknown
-10;unspecified
