@@ -1,0 +1,31 @@
+id_catégorie_arme;libellé_catégorie_arme
+0;unspecified
+1;Poisoning
+2;Automatic Weapon
+3;Handgun
+4;Rifle/Shotgun (non-automatic)
+5;Unknown Gun Type
+6;Other Gun Type
+7;Grenade
+8;Land Mine
+9;Letter Bomb
+10;Pressure Trigger
+11;Projectile (rockets, mortars, RPGs, etc.)
+12;Remote Trigger
+13;Suicide (carried bodily by human being)
+14;Time Fuse
+15;Vehicle
+16;Unknown Explosive Type
+17;Other Explosive Type
+18;Arson/Fire
+19;Molotov Cocktail/Petrol Bomb
+20;Gasoline or Alcohol
+21;Blunt Object
+22;Hands, Feet, Fists
+23;Knife or Other Sharp Object
+24;Rope or Other Strangling Device
+26;Suffocation
+27;Unknown Weapon Type
+28;Dynamite/TNT
+29;Sticky Bomb
+30;Explosive
